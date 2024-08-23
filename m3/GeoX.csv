@@ -1,0 +1,79 @@
+NewArea,NewArea_Name,Region,cluster3
+-1,Sh_Arak,Urban,3
+0,Markazi,Urban,3
+1,Gilan,Urban,3
+105,Sh_Rasht,Urban,2
+2,Mazandaran,Urban,3
+3,East Azarbaijan,Urban,5
+303,Sh_Tabriz,Urban,3
+401,Sh_Urmia,Urban,4
+4,West Azarbaijan,Urban,6
+5,Kermanshah,Urban,6
+502,Sh_Kermanshah,Urban,5
+6,Khuzestan,Urban,6
+603,Sh_Ahvaz,Urban,4
+7,Fars,Urban,4
+707,Sh_Shiraz,Urban,2
+8,Kerman,Urban,5
+808,Sh_Kerman,Urban,4
+9,Razavi Khorasan,Urban,6
+916,Sh_Mashhad,Urban,4
+10,Esfahan,Urban,3
+1002,Sh_Isfahan,Urban,2
+11,Sistan and Baluchistan,Urban,7
+1105,Sh_Zahedan,Urban,7
+12,Kurdistan,Urban,6
+13,Hamadan,Urban,4
+1304,Sh_Hamadan,Urban,4
+14,Chahar Mahaal and Bakhtiari,Urban,4
+15,Lorestan,Urban,6
+16,Ilam,Urban,5
+17,Kohkiluyeh and Buyer Ahmad,Urban,3
+18,Bushehr,Urban,4
+19,Zanjan,Urban,4
+20,Semnan,Urban,4
+21,Yazd,Urban,4
+2105,Sh_Yazd,Urban,3
+22,Hormozgan,Urban,4
+2202,Sh_Bandar-Abbas,Urban,2
+2301,Sh_Tehran,Urban,1
+23,Tehran,Urban,3
+24,Ardabil,Urban,5
+25,Qom,Urban,3
+26,Qazvin,Urban,3
+27,Golestan,Urban,6
+28,North Khorasan,Urban,6
+29,South Khorasan,Urban,6
+3001,Sh_Karaj,Urban,2
+30,Alborz,Urban,3
+0,Markazi,Rural,11
+1,Gilan,Rural,10
+2,Mazandaran,Rural,9
+3,East Azarbaijan,Rural,11
+4,West Azarbaijan,Rural,12
+5,Kermanshah,Rural,12
+6,Khuzestan,Rural,12
+7,Fars,Rural,11
+8,Kerman,Rural,12
+9,Razavi Khorasan,Rural,13
+10,Esfahan,Rural,9
+11,Sistan and Baluchistan,Rural,13
+12,Kurdistan,Rural,12
+13,Hamadan,Rural,12
+14,Chahar Mahaal and Bakhtiari,Rural,11
+15,Lorestan,Rural,12
+16,Ilam,Rural,12
+17,Kohkiluyeh and Buyer Ahmad,Rural,10
+18,Bushehr,Rural,10
+19,Zanjan,Rural,11
+20,Semnan,Rural,11
+21,Yazd,Rural,10
+22,Hormozgan,Rural,11
+23,Tehran,Rural,8
+24,Ardabil,Rural,12
+25,Qom,Rural,11
+26,Qazvin,Rural,10
+27,Golestan,Rural,12
+28,North Khorasan,Rural,13
+29,South Khorasan,Rural,12
+30,Alborz,Rural,8

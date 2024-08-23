@@ -1,0 +1,12 @@
+Item,LifeTime,ScrapValuePct,Depri
+Refrigrator,30,0.1,3
+Washer,30,0.1,3
+Oven,30,0.1,3
+Car,10,0.75,2.5
+Car_Tire,2,0.5,25
+Car_Motor,47,0.05,2
+Car_Repair,20,0,5
+Cellphone,8,0.4,7.5
+TV,30,0.1,3
+Computer,16,0.2,5
+AC,20,0.2,4
